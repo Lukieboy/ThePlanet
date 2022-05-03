@@ -1,0 +1,71 @@
+body{
+    font-family: 'Droid Serif', serif;
+    font-size: 14px;
+    color: #4c4c4c;
+    background-color: #e8f4fb;
+}
+header{
+    font-family: 'Playfair Display', serif;
+    font-weight: 900;
+    font-size: 80px;
+    text-align:center;
+}
+
+.subhead{
+    border-bottom: 2px solid #2f2f2f;
+    border-top: 2px solid #2f2f2f;
+    padding: 12px 0 12px 0;
+    text-align: center;
+    width:53%;
+    margin:auto;
+}
+.content{
+    font-size: 0;
+    display: inline-block;
+    margin: 30px 2% 0 2%;
+}
+
+.collumn{
+    font-size: 14px;
+    width: 55%;
+    display: block;
+    vertical-align: top;
+    margin:auto;
+}
+
+.headline{
+    font-size:40px;
+}
+
+p{
+    font-size: 17px;
+    line-height:1.8em;
+    font-weight:400;
+    width:79%;
+    margin: 7px 0;
+}
+
+img{
+    width:80%;
+    height:auto;
+}
+
+.author{
+    margin:0;
+    font-size:17px;
+    font-weight:bold;
+}
+.footer{
+    text-align:center;
+    margin:0;
+    width:100%;
+}
+footer{
+    margin-top:30px;
+    background-color:#9dcae3;
+    padding:20px 0;
+}
+.indent { 
+    display:block;
+    text-indent: 30px;
+ }
